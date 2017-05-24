@@ -1,5 +1,5 @@
 {
-  "name": "angular-quickstart",
+  "name": "task_list",
   "version": "1.0.0",
   "scripts": {
     "start": "npm run lite",
