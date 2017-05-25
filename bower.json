@@ -1,0 +1,22 @@
+{
+  "name": "task_list",
+  "description": "task list",
+  "main": "server.js",
+  "authors": [
+    "Joshua Oliphant <josholiphantlmp@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/JoshuaOliphant/task_list",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
